@@ -23,11 +23,11 @@ sv_scriptHookAllowed 0
 # - sets tags "drifting, cars, racing"
 # Or:
 # - sets tags "roleplay, military, tanks"
-sets tags "default"
+sets tags "roleplay, greek, greece"
 
 # A valid locale identifier for your server's primary language.
 # For example "en-US", "fr-CA", "nl-NL", "de-DE", "en-GB", "pt-BR"
-sets locale "root-AQ"
+sets locale "el-GR"
 # please DO replace root-AQ on the line ABOVE with a real language! :)
 
 # Set an optional server info and connecting banner image url.
@@ -36,13 +36,13 @@ sets locale "root-AQ"
 #sets banner_connecting "https://url.to/image.png"
 
 # Set your server's hostname. This is not usually shown anywhere in listings.
-sv_hostname "FXServer, but unconfigured"
+sv_hostname "Utopia Roleplay GR"
 
 # Set your server's Project Name
-sets sv_projectName "My FXServer Project"
+# sets sv_projectName "My FXServer Project"
 
 # Set your server's Project Description
-sets sv_projectDesc "Default FXServer requiring configuration"
+# sets sv_projectDesc "Default FXServer requiring configuration"
 
 # Set Game Build (https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build)
 #sv_enforceGameBuild 2802
@@ -54,7 +54,7 @@ sets sv_projectDesc "Default FXServer requiring configuration"
 #load_server_icon myLogo.png
 
 # convars which can be used in scripts
-set temp_convar "hey world!"
+# set temp_convar "hey world!"
 
 # Remove the `#` from the below line if you want your server to be listed as 'private' in the server browser.
 # Do not edit it if you *do not* want your server listed as 'private'.
@@ -65,7 +65,7 @@ set temp_convar "hey world!"
 # Add system admins
 add_ace group.admin command allow # allow all commands
 add_ace group.admin command.quit deny # but don't allow quit
-add_principal identifier.fivem:1 group.admin # add the admin to the group
+add_principal identifier.steam:11000014065b41c group.admin # pjsykesgr
 
 # enable OneSync (required for server-side state awareness)
 set onesync on
@@ -75,7 +75,7 @@ sv_maxclients 48
 
 # Steam Web API key, if you want to use Steam authentication (https://steamcommunity.com/dev/apikey)
 # -> replace "" with the key
-set steam_webApiKey ""
+set steam_webApiKey "$STEAM_WEB_API_KEY"
 
 # License key for your server (https://portal.cfx.re)
-sv_licenseKey changeme
+sv_licenseKey $SV_LICENSE_KEY
