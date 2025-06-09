@@ -12,6 +12,7 @@ ensure hardcap
 ensure rconlog
 
 ensure vMenu
+ensure dynamic-npcs
 
 # Utopia resources
 ensure u-flappy-psychiko-loadscreen

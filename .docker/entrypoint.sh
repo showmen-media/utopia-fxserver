@@ -66,7 +66,8 @@ if [ -f "$CONFIG_AUTODOWNLOAD/download-list.yml" ]; then
 	done < "$CONFIG_AUTODOWNLOAD/download-list.yml"
 fi
 
-#TODO: replace files in /config/resources/[local]/[autodownload] with the ones from /config/autodownload
+# Replace files in /config/resources/[local]/[autodownload] with the ones from /config/autodownload
+cp -r $CONFIG_AUTODOWNLOAD/* $LOCAL_AUTODOWNLOAD/
 
 
 echo "$AUTODOWNLOAD_HASH" > $LOCAL_AUTODOWNLOAD/hash
