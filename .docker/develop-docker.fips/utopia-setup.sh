@@ -57,7 +57,7 @@ CONTAINER_HASH=$(\
 	 -p $PORT:30120\
 	 -p $PORT:30120/udp\
 	 -v $(pwd):/config\
-	 spritsail/fivem
+	 utopia-fxserver
 )
 
 if [ $? -eq 0 ]; then

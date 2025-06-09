@@ -11,6 +11,8 @@ ensure basic-gamemode
 ensure hardcap
 ensure rconlog
 
+ensure vMenu
+
 # Utopia resources
 ensure u-flappy-psychiko-loadscreen
 
