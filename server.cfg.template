@@ -11,10 +11,11 @@ ensure basic-gamemode
 ensure hardcap
 ensure rconlog
 
-ensure vMenu
-ensure dynamic-npcs
 
 # Utopia resources
+ensure vMenu
+ensure dynamic-npcs
+ensure u-misc-adjustments
 ensure u-flappy-psychiko-loadscreen
 
 
