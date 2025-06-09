@@ -5,6 +5,8 @@
 
 # END OF ORIGINAL IGNORE FILE
 
+.replxx_history
+
 # local env files
 .env.local
 .env.development.local
