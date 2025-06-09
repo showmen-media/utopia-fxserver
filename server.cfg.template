@@ -14,7 +14,8 @@ ensure rconlog
 
 # Utopia resources
 ensure vMenu
-ensure dynamic-npcs
+# dynamic-npcs is intended to work with esx
+# ensure dynamic-npcs
 ensure u-misc-adjustments
 ensure u-flappy-psychiko-loadscreen
 
