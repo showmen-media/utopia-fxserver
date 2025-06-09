@@ -7,6 +7,6 @@ You can also `git clone` using the `--recurse-submodules` flag
 
 ## Build, Develop & Run
 
-> docker build -t utopia-fxserver .
+> docker build --pull -t utopia-fxserver .
 
 > docker run --env-file .env.local -it --rm -p 30120:30120 -p 30120:30120/udp -p 8088:80 -v $(pwd):/config utopia-fxserver
