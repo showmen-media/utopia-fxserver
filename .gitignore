@@ -4,7 +4,8 @@
 /db/
 
 # END OF ORIGINAL IGNORE FILE
-
+!*.cfg
+server.cfg
 .replxx_history
 
 # local env files

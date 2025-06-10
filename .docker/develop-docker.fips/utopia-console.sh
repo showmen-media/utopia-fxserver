@@ -11,6 +11,6 @@ for i in {3..1}; do
 done
 
 echo -ne "\rAttaching…\n"
-docker logs --tail 5 $CONTAINER_NAME
+docker logs --tail 100 $CONTAINER_NAME
 #TODO: send SPACE, Ctrl-C and ENTER before attaching to ensure the console is ready
 docker attach --detach-keys="ctrl-d" $CONTAINER_NAME
