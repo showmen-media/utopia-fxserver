@@ -1,4 +1,22 @@
 # [RESR_NAME]: [RESR_ZIP_URL]#[RESR_ZIPD_FOLDER]
-vMenu: https://github.com/TomGrobbe/vMenu/releases/download/v3.6.5/vMenu-v3.6.5.zip
+# Database
+oxmysql: https://github.com/overextended/oxmysql/releases/download/v2.12.0/oxmysql.zip#oxmysql
+
+# qbcore
+PolyZone: https://github.com/mkafrin/PolyZone/releases/download/v2.6.2/PolyZone.zip
+qb-core: https://github.com/qbcore-framework/qb-core/archive/fdd380e7cfa231402fe15f8e22f64b86553d6c37.zip#qb-core-fdd380e7cfa231402fe15f8e22f64b86553d6c37
+qb-target: https://github.com/qbcore-framework/qb-target/archive/664f0961f79902fab99e1e31d95e82032882094c.zip#qb-target-664f0961f79902fab99e1e31d95e82032882094c
+qb-smallresources: https://github.com/qbcore-framework/qb-smallresources/archive/c5da72cda680a2199aeef77bde0b008bbaf1fc5b.zip#qb-smallresources-c5da72cda680a2199aeef77bde0b008bbaf1fc5b
+qb-weapons: https://github.com/qbcore-framework/qb-weapons/archive/c9f8397f140cf9d9c48e29222422a2beb626f0db.zip#qb-weapons-c9f8397f140cf9d9c48e29222422a2beb626f0db
+qb-inventory: https://github.com/qbcore-framework/qb-inventory/archive/7feaf52f79c776d8becd17523cd30fab75743b63.zip#qb-inventory-7feaf52f79c776d8becd17523cd30fab75743b63
+qb-clothing: https://github.com/qbcore-framework/qb-clothing/archive/2cb00d33514d55024654bd5f92310004ab89da97.zip#qb-clothing-2cb00d33514d55024654bd5f92310004ab89da97
+qb-weathersync: https://github.com/qbcore-framework/qb-weathersync/archive/a1257e742db4eb7ecf8f5dcb3fd3a4a6f3cfb690.zip#qb-weathersync-a1257e742db4eb7ecf8f5dcb3fd3a4a6f3cfb690
+qb-multicharacter: https://github.com/qbcore-framework/qb-multicharacter/archive/301baaea24f095437e74ce8c957084b20cde69b2.zip#qb-multicharacter-301baaea24f095437e74ce8c957084b20cde69b2
+qb-spawn: https://github.com/qbcore-framework/qb-spawn/archive/c48839d6464ccbd1bd965e02d14d7f927cf7a1ab.zip#qb-spawn-c48839d6464ccbd1bd965e02d14d7f927cf7a1ab
+# qb-apartments: https://github.com/qbcore-framework/qb-apartments/archive/8343178be014c598b03abcb4df1de8254ae9625d.zip#qb-apartments-8343178be014c598b03abcb4df1de8254ae9625d
+qb-fuel: https://github.com/qbcore-framework/qb-fuel/archive/4104ea0eed7ca746005d73d41327641459ec5c61.zip#qb-fuel-4104ea0eed7ca746005d73d41327641459ec5c61
+qb-hud: https://github.com/qbcore-framework/qb-hud/archive/bfbb8a2a4643a314dd3ed3cf31be9eab53186363.zip#qb-hud-bfbb8a2a4643a314dd3ed3cf31be9eab53186363
+
+# Misc
 # dynamic-npcs is intended to work with esx
-# dynamic-npcs: https://github.com/Bluscream/dynamic-npcs/archive/7b3b6004576ad0c437adae1701bc11068483223b.zip#dynamic-npcs-7b3b6004576ad0c437adae1701bc11068483223b
+dynamic-npcs: https://github.com/Bluscream/dynamic-npcs/archive/7b3b6004576ad0c437adae1701bc11068483223b.zip#dynamic-npcs-7b3b6004576ad0c437adae1701bc11068483223b
