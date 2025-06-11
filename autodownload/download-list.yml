@@ -17,6 +17,12 @@ qb-spawn: https://github.com/qbcore-framework/qb-spawn/archive/c48839d6464ccbd1b
 # qb-apartments: https://github.com/qbcore-framework/qb-apartments/archive/8343178be014c598b03abcb4df1de8254ae9625d.zip#qb-apartments-8343178be014c598b03abcb4df1de8254ae9625d
 qb-fuel: https://github.com/qbcore-framework/qb-fuel/archive/4104ea0eed7ca746005d73d41327641459ec5c61.zip#qb-fuel-4104ea0eed7ca746005d73d41327641459ec5c61
 qb-hud: https://github.com/qbcore-framework/qb-hud/archive/bfbb8a2a4643a314dd3ed3cf31be9eab53186363.zip#qb-hud-bfbb8a2a4643a314dd3ed3cf31be9eab53186363
+#
+qb-anticheat: https://github.com/qbcore-framework/qb-anticheat/archive/b6b4a024446189311346be2e20015acb52811a8e.zip#qb-anticheat-b6b4a024446189311346be2e20015acb52811a8e
+menuv: https://github.com/ThymonA/menuv/releases/download/v1.4.1/menuv_v1.4.1.zip
+qb-adminmenu: https://github.com/qbcore-framework/qb-adminmenu/archive/59d42aa6cd8a229cb1b155a81f90ee87fa4f62c6.zip#qb-adminmenu-59d42aa6cd8a229cb1b155a81f90ee87fa4f62c6
+qb-menu: https://github.com/qbcore-framework/qb-menu/archive/b9618c0842c8b3573cca524930affdf6c6aa4491.zip#qb-menu-b9618c0842c8b3573cca524930affdf6c6aa4491
+qb-mechanicjob: https://github.com/qbcore-framework/qb-mechanicjob/archive/9cb9224afb7ed4fba298f8f762599a1cc7795666.zip#qb-mechanicjob-9cb9224afb7ed4fba298f8f762599a1cc7795666
 
 # Misc
 # dynamic-npcs is intended to work with esx
