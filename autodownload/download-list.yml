@@ -3,6 +3,7 @@
 oxmysql: https://github.com/overextended/oxmysql/releases/download/v2.12.0/oxmysql.zip#oxmysql
 
 # qbcore
+progressbar: https://github.com/qbcore-framework/progressbar/archive/6e9381de6637bd443a8eaf1a6da0d339d8cebb15.zip#progressbar-6e9381de6637bd443a8eaf1a6da0d339d8cebb15
 PolyZone: https://github.com/mkafrin/PolyZone/releases/download/v2.6.2/PolyZone.zip
 qb-core: https://github.com/qbcore-framework/qb-core/archive/fdd380e7cfa231402fe15f8e22f64b86553d6c37.zip#qb-core-fdd380e7cfa231402fe15f8e22f64b86553d6c37
 qb-target: https://github.com/qbcore-framework/qb-target/archive/664f0961f79902fab99e1e31d95e82032882094c.zip#qb-target-664f0961f79902fab99e1e31d95e82032882094c
@@ -20,3 +21,4 @@ qb-hud: https://github.com/qbcore-framework/qb-hud/archive/bfbb8a2a4643a314dd3ed
 # Misc
 # dynamic-npcs is intended to work with esx
 dynamic-npcs: https://github.com/Bluscream/dynamic-npcs/archive/7b3b6004576ad0c437adae1701bc11068483223b.zip#dynamic-npcs-7b3b6004576ad0c437adae1701bc11068483223b
+connectqueue: https://github.com/Nick78111/ConnectQueue/archive/b170946921a85640786422fd723ea91bbd23f72d.zip#ConnectQueue-b170946921a85640786422fd723ea91bbd23f72d/connectqueue
