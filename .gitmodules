@@ -1,3 +1,6 @@
 [submodule "resources/[utopia]/u-flappy-psychiko-loadscreen"]
 	path = resources/[utopia]/u-flappy-psychiko-loadscreen
 	url = git@github.com:showmen-media/Utopia-FlappyPsychikoLoadscreen.git
+[submodule "resources/[utopia]/fxrpc-server"]
+	path = resources/[utopia]/fxrpc-server
+	url = git@github.com:showmen-media/fxrpc-server.git

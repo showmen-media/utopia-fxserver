@@ -23,7 +23,8 @@ if [ ! -f server.cfg ] || [ ! -f .env.local ]; then
 fi
 
 # Set up the Docker container
-PORT=$(($UID+29120))
+FIVEM_PORT=$(($UID+29120))
+FXRPC_PORT=$(($UID+49051))
 CONTAINER_NAME=utopia-develop-$USER
 
 # Check if the container already exists
@@ -54,8 +55,9 @@ CONTAINER_HASH=$(\
 	docker run -it -d\
 	 --env-file .env.local\
 	 --name $CONTAINER_NAME\
-	 -p $PORT:30120\
-	 -p $PORT:30120/udp\
+	 -p $FIVEM_PORT:30120\
+	 -p $FIVEM_PORT:30120/udp\
+	 -p $FXRPC_PORT:50051\
 	 -v $(pwd):/config\
 	 utopia-fxserver
 )
@@ -63,6 +65,7 @@ CONTAINER_HASH=$(\
 if [ $? -eq 0 ]; then
 	CONTAINER_HASH=${CONTAINER_HASH:0:8}
 	echo -e "New container \e[7m\033[1m $CONTAINER_NAME \033[0m\e[0m ($CONTAINER_HASH) started."
-	echo -e "It will be accessible using \e[7m\033[1m develop-docker.fips:$PORT \033[0m\e[0m."
+	echo -e "It will be accessible using \e[7m\033[1m develop-docker.fips:$FIVEM_PORT \033[0m\e[0m."
+	echo -e "FxRPC available at \e[7m\033[1m develop-docker.fips:$FXRPC_PORT \033[0m\e[0m."
 	echo ""
 fi
