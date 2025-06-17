@@ -69,3 +69,5 @@ if [ $? -eq 0 ]; then
 	echo -e "FxRPC available at \e[7m\033[1m develop-docker.fips:$FXRPC_PORT \033[0m\e[0m."
 	echo ""
 fi
+__dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source ${__dir}/utopia-console.sh

@@ -1,4 +1,5 @@
 #!/bin/bash
 CONTAINER_NAME=utopia-develop-$USER
 docker restart $CONTAINER_NAME && echo 'Restart sent'
-# To detach the tty without exiting the shell, use the escape sequence Ctrl-p + Ctrl-q
+__dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source ${__dir}/utopia-console.sh
