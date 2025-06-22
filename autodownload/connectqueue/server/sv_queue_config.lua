@@ -16,7 +16,7 @@ Config.Priority = {
 Config.RequireSteam = true
 
 -- "whitelist" only server
-Config.PriorityOnly = true
+Config.PriorityOnly = false
 
 -- disables hardcap, should keep this true
 Config.DisableHardCap = true

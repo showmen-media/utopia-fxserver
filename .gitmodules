@@ -4,3 +4,6 @@
 [submodule "resources/[utopia]/fxrpc-server"]
 	path = resources/[utopia]/fxrpc-server
 	url = git@github.com:showmen-media/fxrpc-server.git
+[submodule "resources/[utopia]/u-qb-devices"]
+	path = resources/[utopia]/u-qb-devices
+	url = git@github.com:showmen-media/utopia-qb-devices.git

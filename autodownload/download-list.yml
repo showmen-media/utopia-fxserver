@@ -2,6 +2,9 @@
 # Database
 oxmysql: https://github.com/overextended/oxmysql/releases/download/v2.12.0/oxmysql.zip#oxmysql
 
+# Audio
+pma-voice: https://github.com/AvarianKnight/pma-voice/archive/refs/tags/v6.6.2.zip#pma-voice-6.6.2
+
 # qbcore
 progressbar: https://github.com/qbcore-framework/progressbar/archive/6e9381de6637bd443a8eaf1a6da0d339d8cebb15.zip#progressbar-6e9381de6637bd443a8eaf1a6da0d339d8cebb15
 PolyZone: https://github.com/mkafrin/PolyZone/releases/download/v2.6.2/PolyZone.zip
@@ -31,3 +34,4 @@ qb-newsjob: https://github.com/qbcore-framework/qb-newsjob/archive/fe710ca6742b7
 # dynamic-npcs is intended to work with esx
 dynamic-npcs: https://github.com/Bluscream/dynamic-npcs/archive/7b3b6004576ad0c437adae1701bc11068483223b.zip#dynamic-npcs-7b3b6004576ad0c437adae1701bc11068483223b
 connectqueue: https://github.com/Nick78111/ConnectQueue/archive/b170946921a85640786422fd723ea91bbd23f72d.zip#ConnectQueue-b170946921a85640786422fd723ea91bbd23f72d/connectqueue
+kael-npctaxi: https://github.com/abdullasadi/kael-npctaxi-main/archive/300723da07111fbfffbba15f9f85262b62b788f4.zip#kael-npctaxi-main-300723da07111fbfffbba15f9f85262b62b788f4
