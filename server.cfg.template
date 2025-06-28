@@ -85,6 +85,7 @@ sv_licenseKey $SV_LICENSE_KEY
 
 # Utopia configurations
 set mysql_connection_string $MYSQL_CONNECTION_STRING
+set utopia_cloud_base_url $UTOPIA_CLOUD_BASE_URL
 
 # Utopia resources
 exec utopia-resources.cfg
