@@ -68,6 +68,7 @@ add_ace group.admin command allow # allow all commands
 add_ace group.admin command.quit deny # but don't allow quit
 add_principal identifier.steam:11000014065b41c group.admin # pjsykesgr
 add_principal identifier.steam:110000104d4f320 group.admin # Ninosykes
+add_principal identifier.steam:110000103927fee group.admin # 8odhkiller
 
 # enable OneSync (required for server-side state awareness)
 set onesync on

@@ -9,6 +9,7 @@ Config.Priority = {
     ['steam:110000104ee9bb7'] = 100, -- Buzzl1ght
     ['steam:1100001062eae97'] = 100, -- Shaun
     ['steam:11000010d047dab'] = 100, -- Notorious
+    ['steam:110000103927fee'] = 100, -- 8odhkiller
     ['steam:11000014065b41c'] = 100 -- pjsykesgr
 }
 
