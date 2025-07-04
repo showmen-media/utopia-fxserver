@@ -17,7 +17,7 @@ qb-clothing: https://github.com/qbcore-framework/qb-clothing/archive/2cb00d33514
 qb-weathersync: https://github.com/qbcore-framework/qb-weathersync/archive/a1257e742db4eb7ecf8f5dcb3fd3a4a6f3cfb690.zip#qb-weathersync-a1257e742db4eb7ecf8f5dcb3fd3a4a6f3cfb690
 qb-multicharacter: https://github.com/qbcore-framework/qb-multicharacter/archive/301baaea24f095437e74ce8c957084b20cde69b2.zip#qb-multicharacter-301baaea24f095437e74ce8c957084b20cde69b2
 qb-spawn: https://github.com/qbcore-framework/qb-spawn/archive/c48839d6464ccbd1bd965e02d14d7f927cf7a1ab.zip#qb-spawn-c48839d6464ccbd1bd965e02d14d7f927cf7a1ab
-# qb-apartments: https://github.com/qbcore-framework/qb-apartments/archive/8343178be014c598b03abcb4df1de8254ae9625d.zip#qb-apartments-8343178be014c598b03abcb4df1de8254ae9625d
+# qb-apartments
 qb-fuel: https://github.com/qbcore-framework/qb-fuel/archive/4104ea0eed7ca746005d73d41327641459ec5c61.zip#qb-fuel-4104ea0eed7ca746005d73d41327641459ec5c61
 qb-hud: https://github.com/qbcore-framework/qb-hud/archive/bfbb8a2a4643a314dd3ed3cf31be9eab53186363.zip#qb-hud-bfbb8a2a4643a314dd3ed3cf31be9eab53186363
 #
@@ -28,9 +28,15 @@ qb-menu: https://github.com/qbcore-framework/qb-menu/archive/b9618c0842c8b3573cc
 qb-input: https://github.com/qbcore-framework/qb-input/archive/c07bd388b56fff349aabbd46bb7442bf5e711e93.zip#qb-input-c07bd388b56fff349aabbd46bb7442bf5e711e93
 qb-mechanicjob: https://github.com/qbcore-framework/qb-mechanicjob/archive/9cb9224afb7ed4fba298f8f762599a1cc7795666.zip#qb-mechanicjob-9cb9224afb7ed4fba298f8f762599a1cc7795666
 
+qb-radialmenu: https://github.com/qbcore-framework/qb-radialmenu/archive/df5c8e1124934d556f4f6d4da66ea357d425ae26.zip#qb-radialmenu-df5c8e1124934d556f4f6d4da66ea357d425ae26
+qb-interior: https://github.com/qbcore-framework/qb-interior/archive/f1227e533666c0ce55ce9dfab905512da6da9ea3.zip#qb-interior-f1227e533666c0ce55ce9dfab905512da6da9ea3
+qb-garages: https://github.com/qbcore-framework/qb-garages/archive/8c1016f913368e3dede4833c2b9445ee7b617579.zip#qb-garages-8c1016f913368e3dede4833c2b9445ee7b617579
+qb-weed: https://github.com/qbcore-framework/qb-weed/archive/2e77cf6c87adb01fb67685f079438521284d29b3.zip#qb-weed-2e77cf6c87adb01fb67685f079438521284d29b3
+qb-houses: https://github.com/qbcore-framework/qb-houses/archive/a226879d18c84ca8476e2c5e9016ad86b934175f.zip#qb-houses-a226879d18c84ca8476e2c5e9016ad86b934175f
+qb-apartments: https://github.com/qbcore-framework/qb-apartments/archive/8343178be014c598b03abcb4df1de8254ae9625d.zip#qb-apartments-8343178be014c598b03abcb4df1de8254ae9625d
+
 qb-newsjob: https://github.com/qbcore-framework/qb-newsjob/archive/fe710ca6742b758cb9921c7dd8bc673ed61b2895.zip#qb-newsjob-fe710ca6742b758cb9921c7dd8bc673ed61b2895
 qb-vineyard: https://github.com/qbcore-framework/qb-vineyard/archive/5f2447680c06b3043acb29ff77492a4c135ae509.zip#qb-vineyard-5f2447680c06b3043acb29ff77492a4c135ae509
-qb-weed: https://github.com/qbcore-framework/qb-weed/archive/2e77cf6c87adb01fb67685f079438521284d29b3.zip#qb-weed-2e77cf6c87adb01fb67685f079438521284d29b3
 
 # Misc
 # dynamic-npcs is intended to work with esx
