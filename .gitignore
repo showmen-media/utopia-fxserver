@@ -4,6 +4,8 @@
 /db/
 
 # END OF ORIGINAL IGNORE FILE
+core
+
 !*.cfg
 server.cfg
 .replxx_history
