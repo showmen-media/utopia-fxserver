@@ -36,8 +36,8 @@ function QBShared.RandomReadableIdChars(length)
 end
 
 local SerialCharset = {}
-for i = 48, 57 do SerialCharset[#NumberCharset + 1] = string.char(i) end
-for i = 65, 90 do SerialCharset[#NumberCharset + 1] = string.char(i) end
+for i = 48, 57 do SerialCharset[#SerialCharset + 1] = string.char(i) end
+for i = 65, 90 do SerialCharset[#SerialCharset + 1] = string.char(i) end
 
 function QBShared.RandomSerial(length)
     if length <= 0 then return '' end
