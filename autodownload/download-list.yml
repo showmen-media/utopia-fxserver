@@ -38,6 +38,13 @@ qb-apartments: https://github.com/qbcore-framework/qb-apartments/archive/8343178
 qb-newsjob: https://github.com/qbcore-framework/qb-newsjob/archive/fe710ca6742b758cb9921c7dd8bc673ed61b2895.zip#qb-newsjob-fe710ca6742b758cb9921c7dd8bc673ed61b2895
 qb-vineyard: https://github.com/qbcore-framework/qb-vineyard/archive/5f2447680c06b3043acb29ff77492a4c135ae509.zip#qb-vineyard-5f2447680c06b3043acb29ff77492a4c135ae509
 
+qb-shops: https://github.com/qbcore-framework/qb-shops/archive/4c4082efd9d582355e6b564e95dd3bb1d10e0961.zip#qb-shops-4c4082efd9d582355e6b564e95dd3bb1d10e0961
+keep-hunting: https://github.com/swkeep/keep-hunting/archive/1c5b14e88940eb5d8f73e5f0248c8c2caa36f8d5.zip#keep-hunting-1c5b14e88940eb5d8f73e5f0248c8c2caa36f8d5
+
+qb-management: https://github.com/qbcore-framework/qb-management/archive/3375d488002e098c0486ed203c5b955d45065bee.zip#qb-management-3375d488002e098c0486ed203c5b955d45065bee
+qb-policejob: https://github.com/qbcore-framework/qb-policejob/archive/1dd32289a99f85b144d69cf7154139909027789e.zip#qb-policejob-1dd32289a99f85b144d69cf7154139909027789e
+qb-ambulancejob: https://github.com/qbcore-framework/qb-ambulancejob/archive/aa22183572fefffc260f50b06ba0c974663f7528.zip#qb-ambulancejob-aa22183572fefffc260f50b06ba0c974663f7528
+
 # Misc
 # dynamic-npcs is intended to work with esx
 dynamic-npcs: https://github.com/Bluscream/dynamic-npcs/archive/7b3b6004576ad0c437adae1701bc11068483223b.zip#dynamic-npcs-7b3b6004576ad0c437adae1701bc11068483223b

@@ -12,19 +12,19 @@ QBShared.Jobs = {
 	vineyard = { label = 'Vineyard', defaultDuty = true, offDutyPay = false, grades = { ['0'] = { name = 'Picker', payment = 50 } } },
 	-- hotdog = { label = 'Hotdog', defaultDuty = true, offDutyPay = false, grades = { ['0'] = { name = 'Sales', payment = 50 } } },
 
-	-- police = {
-	-- 	label = 'Law Enforcement',
-	-- 	type = 'leo',
-	-- 	defaultDuty = true,
-	-- 	offDutyPay = false,
-	-- 	grades = {
-	-- 		['0'] = { name = 'Recruit', payment = 50 },
-	-- 		['1'] = { name = 'Officer', payment = 75 },
-	-- 		['2'] = { name = 'Sergeant', payment = 100 },
-	-- 		['3'] = { name = 'Lieutenant', payment = 125 },
-	-- 		['4'] = { name = 'Chief', isboss = true, payment = 150 },
-	-- 	},
-	-- },
+	police = {
+		label = 'Law Enforcement',
+		type = 'leo',
+		defaultDuty = true,
+		offDutyPay = false,
+		grades = {
+			['0'] = { name = 'Recruit', payment = 50 },
+			['1'] = { name = 'Officer', payment = 75 },
+			['2'] = { name = 'Sergeant', payment = 100 },
+			['3'] = { name = 'Lieutenant', payment = 125 },
+			['4'] = { name = 'Chief', isboss = true, payment = 150 },
+		},
+	},
 	ambulance = {
 		label = 'EMS',
 		type = 'ems',
