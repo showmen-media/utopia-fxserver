@@ -7,3 +7,6 @@
 [submodule "resources/[utopia]/u-qb-devices"]
 	path = resources/[utopia]/u-qb-devices
 	url = git@github.com:showmen-media/utopia-qb-devices.git
+[submodule "resources/[utopia]/u-lago-zancudo"]
+	path = resources/[utopia]/u-lago-zancudo
+	url = git@github.com:showmen-media/utopia-lago-zancudo.git
