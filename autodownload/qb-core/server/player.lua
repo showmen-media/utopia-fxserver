@@ -528,21 +528,22 @@ function QBCore.Player.SaveOffline(PlayerData)
 end
 
 -- Delete character
-
+-- <>
 local playertables = { -- Add tables as needed
     { table = 'players' },
     { table = 'apartments' },
-    { table = 'bank_accounts' },
-    { table = 'crypto_transactions' },
-    { table = 'phone_invoices' },
-    { table = 'phone_messages' },
+    -- { table = 'bank_accounts' },
+    -- { table = 'crypto_transactions' },
+    -- { table = 'phone_invoices' },
+    -- { table = 'phone_messages' },
     { table = 'playerskins' },
     { table = 'player_contacts' },
     { table = 'player_houses' },
-    { table = 'player_mails' },
+    -- { table = 'player_mails' },
     { table = 'player_outfits' },
     { table = 'player_vehicles' }
 }
+-- </>
 
 function QBCore.Player.DeleteCharacter(source, citizenid)
     local license = QBCore.Functions.GetIdentifier(source, 'license')
