@@ -26,6 +26,7 @@ local function GiveStarterItems(source)
     end
 end
 -- <Utopia>
+exports('GetCountries', function() return Countries end)
 exports('GiveStarterItems', GiveStarterItems)
 -- </Utopia>
 
