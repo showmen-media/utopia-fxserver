@@ -10,3 +10,6 @@
 [submodule "resources/[utopia]/u-lago-zancudo"]
 	path = resources/[utopia]/u-lago-zancudo
 	url = git@github.com:showmen-media/utopia-lago-zancudo.git
+[submodule "resources/[utopia]/u-cayo-perico"]
+	path = resources/[utopia]/u-cayo-perico
+	url = git@github.com:showmen-media/utopia-cayo-perico.git
