@@ -45,6 +45,14 @@ qb-management: https://github.com/qbcore-framework/qb-management/archive/3375d48
 qb-policejob: https://github.com/qbcore-framework/qb-policejob/archive/1dd32289a99f85b144d69cf7154139909027789e.zip#qb-policejob-1dd32289a99f85b144d69cf7154139909027789e
 qb-ambulancejob: https://github.com/qbcore-framework/qb-ambulancejob/archive/aa22183572fefffc260f50b06ba0c974663f7528.zip#qb-ambulancejob-aa22183572fefffc260f50b06ba0c974663f7528
 
+qb-community-service: https://github.com/Zepherlah/qb-community-service/archive/d41879cfc44b027caafa9680bb2d954d3a65ab67.zip#qb-community-service-d41879cfc44b027caafa9680bb2d954d3a65ab67
+
+#
+ox_lib: https://github.com/overextended/ox_lib/releases/download/v3.30.6/ox_lib.zip#ox_lib
+ps-dispatch: https://github.com/Project-Sloth/ps-dispatch/archive/refs/tags/2.2.2.zip#ps-dispatch-2.2.2
+ps-mdt: https://github.com/Project-Sloth/ps-mdt/archive/refs/tags/2.7.3.zip#ps-mdt-2.7.3
+
+
 # Misc
 # dynamic-npcs is intended to work with esx
 dynamic-npcs: https://github.com/Bluscream/dynamic-npcs/archive/7b3b6004576ad0c437adae1701bc11068483223b.zip#dynamic-npcs-7b3b6004576ad0c437adae1701bc11068483223b
